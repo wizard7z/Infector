@@ -121,7 +121,7 @@ banner
 menu
 elif [ $optnz = "7" ];
 then
-am start -a android.intent.action.VIEW -d https://chat.whatsapp.com/Dorez09CKKSG9mnwHadC5n > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://chat.whatsapp.com/I5cpQYy9pqfJCPyw6rtb1e > /dev/null 2>&1
 banner
 menu
 elif [ $optnz = "8" ];
