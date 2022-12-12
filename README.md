@@ -56,5 +56,16 @@ __UPDATE__ :
 __EXIT__ :
 - From this option you can exit from infect tool
 
+## SCREENSHOTS [TERMUX]
+
+<br>
+<p align="center">
+<img width="40%" src="Screenshot_2022-12-12-14-08-47-551_com.termux.jpg"/>
+<img width="40%" src="Screenshot_2022-12-12-14-08-53-859_com.termux.jpg"/>
+</p>
+
+
+
+
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
